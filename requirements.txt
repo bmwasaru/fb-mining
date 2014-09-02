@@ -1,0 +1,4 @@
+requests
+facebook-sdk
+prettytable
+networkx
